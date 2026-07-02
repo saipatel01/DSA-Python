@@ -19,6 +19,8 @@ This repository contains solutions to commonly asked array problems:
 * Single Number
 * Monotonic Array
 * Two Sum
+* Buy and Sell Stock
+* Contains Duplicate
 
 ## Goals
 

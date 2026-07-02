@@ -21,6 +21,7 @@ This repository contains solutions to commonly asked array problems:
 * Two Sum
 * Buy and Sell Stock
 * Contains Duplicate
+* Sort Colors
 
 ## Goals
 

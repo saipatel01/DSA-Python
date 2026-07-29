@@ -22,6 +22,9 @@ This repository contains solutions to commonly asked array problems:
 * Buy and Sell Stock
 * Contains Duplicate
 * Sort Colors
+* two sum II
+* 3 sum
+* min size subarray sum
 
 ## Goals
 

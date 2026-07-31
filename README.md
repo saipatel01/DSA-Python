@@ -25,6 +25,7 @@ This repository contains solutions to commonly asked array problems:
 * two sum II
 * 3 sum
 * min size subarray sum
+* product of Array except self
 
 ## Goals
 

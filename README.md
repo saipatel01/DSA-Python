@@ -26,6 +26,8 @@ This repository contains solutions to commonly asked array problems:
 * 3 sum
 * min size subarray sum
 * product of Array except self
+* Maximum Subarray (kadane's Algorithm)
+* Maximum Product Subarray
 
 ## Goals
 

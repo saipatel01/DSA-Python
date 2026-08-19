@@ -29,6 +29,9 @@ This repository contains solutions to commonly asked array problems:
 * Maximum Subarray (kadane's Algorithm)
 * Maximum Product Subarray
 
+## Strings
+* Reverse String
+
 ## Goals
 
 * Strengthen problem-solving skills

@@ -31,6 +31,8 @@ This repository contains solutions to commonly asked array problems:
 
 ## Strings
 * Reverse String
+* Palindrome
+* Valid Palindrome
 
 ## Goals
 
